@@ -11,9 +11,10 @@ Site pessoal-profissional de educação corporativa: blog em Markdown com RSS e 
 
 `Astro` `TypeScript` `Markdown` · código privado (projeto de cliente)
 
-<img width="1911" height="936" alt="Captura de tela 2026-08-20 220223" src="https://github.com/user-attachments/assets/229680ff-4c1f-4850-80e3-0a68316fdd8f" />
-
 <img width="1618" height="1036" alt="print-codigo-icaro" src="https://github.com/user-attachments/assets/e1cb8434-b01f-4640-8a0f-88015cca1168" /> 
+
+<img width="1911" height="936" alt="Captura de tela 2026-08-20 220223" src="https://github.com/user-attachments/assets/229680ff-4c1f-4850-80e3-0a68316fdd8f" />
+ 
 
 ### [Gerador de Propostas Comerciais](https://gerador-proposta-api.vercel.app/)
 Aplicação web que gera propostas comerciais personalizadas: dashboard de gestão, editor com preview em tempo real e publicação de páginas, com autenticação de usuários.
