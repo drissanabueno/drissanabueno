@@ -19,7 +19,7 @@ Aplicação web que gera propostas comerciais personalizadas: dashboard de gest�
 ### [icaroiasbeck.com](https://icaroiasbeck.com)
 Site pessoal-profissional de educação corporativa: blog em Markdown com RSS e sitemap automáticos, design system com tipografia editorial, SEO com Schema.org e performance otimizada.
 
-`Astro` `TypeScript` `Markdown` · código privado (projeto de cliente)
+`Astro` `TypeScript` `Markdown` · código privado (projeto de cliente) · [estudo de caso com trechos do código](https://github.com/drissanabueno/icaroiasbeck-site)
 
 
 <img width="1911" height="936" alt="Captura de tela 2026-08-20 220223" src="https://github.com/user-attachments/assets/229680ff-4c1f-4850-80e3-0a68316fdd8f" />
