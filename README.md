@@ -1,4 +1,4 @@
-<img width="3200" height="1000" alt="drissana-bueno-github-banner-1600x500_2x" src="https://github.com/user-attachments/assets/e7fbba69-e034-4a1c-87fa-2cfe9a00f683" />
+<img src="assets/banner.png" alt="Drissana Bueno. Sites, interfaces e automações. JavaScript, React, Next.js, Python, IA aplicada." width="100%" />
 
 # Olá! Eu sou a Drissana 👋
 
