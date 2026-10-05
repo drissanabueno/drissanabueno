@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="Drissana Bueno. Sites, interfaces e automações. JavaScript, React, Next.js, Python, IA aplicada." width="100%" />
+<img src="assets/banner.png" alt="Portfólio de Drissana Bueno. Sites, interfaces e automações. JavaScript, React, Next.js, Python, IA aplicada." width="100%" />
 
 # Olá! Eu sou a Drissana 👋
 
