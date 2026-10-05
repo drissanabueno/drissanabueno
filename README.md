@@ -39,6 +39,13 @@ Site institucional da consultoria, multi-idioma (PT/EN/ES) com SEO técnico comp
 
 Na peoople, estruturei uma operação de prospecção B2B assistida por agentes de IA: pesquisa e qualificação automatizadas, integração com CRM (HubSpot) e rotinas diárias agendadas, sempre com revisão humana antes de qualquer contato.
 
+## 🎓 Projeto aberto da faculdade
+
+### [Primeira Porta](https://drissanabueno.github.io/exercicios-front-end/primeira-porta/)
+Site de uma ONG fictícia de empregabilidade tech inclusiva, feito ao longo das quatro experiências práticas de Front-end da Universidade Positivo, sem framework. Começou como três páginas em HTML semântico e terminou como uma SPA com roteamento por hash, validação de formulário, localStorage, modo escuro e menu acessível, publicada no GitHub Pages. O repositório tem o histórico inteiro: GitFlow, pull requests, releases e os relatórios do Lighthouse.
+
+`HTML` `CSS` `JavaScript` · [código aberto](https://github.com/drissanabueno/exercicios-front-end) · acessibilidade 100 no Lighthouse
+
 ## 📚 Estudos e análises
 
 ### [Análise ética: reconhecimento facial na segurança pública](https://github.com/drissanabueno/analise-etica-reconhecimento-facial)
