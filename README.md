@@ -2,7 +2,7 @@
 
 # Olá! Eu sou a Drissana 👋
 
-Construo sites, geradores de documentos e automações com IA pra operações comerciais. Vim do comercial B2B, comecei a programar pra resolver os problemas da minha própria rotina, e hoje desenvolvo na peoople (consultoria de tech recruitment) enquanto curso Engenharia de Software na Universidade Positivo.
+Construo sites, geradores de documentos e automações com IA pra operações comerciais. Vim do comercial B2B, comecei a programar pra resolver os problemas da minha própria rotina, desenvolvi o site e a operação de prospecção de uma consultoria de tech recruitment, e curso Engenharia de Software na Universidade Positivo.
 
 ## 🚀 Projetos em produção
 
@@ -26,7 +26,7 @@ Site pessoal-profissional de educação corporativa: blog em Markdown com RSS e 
  
 
 ### [peoople.io](https://peoople.io)
-Site institucional da consultoria, multi-idioma (PT/EN/ES) com SEO técnico completo (hreflang, Open Graph localizada por idioma) e acessibilidade WCAG 2.1 AA.
+Site institucional que desenvolvi para a consultoria peoople, multi-idioma (PT/EN/ES) com SEO técnico completo (hreflang, Open Graph localizada por idioma) e acessibilidade WCAG 2.1 AA.
 
 `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` · código privado (projeto corporativo)
 
@@ -37,7 +37,7 @@ Site institucional da consultoria, multi-idioma (PT/EN/ES) com SEO técnico comp
 
 ## 🤖 Também construo com IA
 
-Na peoople, estruturei uma operação de prospecção B2B assistida por agentes de IA: pesquisa e qualificação automatizadas, integração com CRM (HubSpot) e rotinas diárias agendadas, sempre com revisão humana antes de qualquer contato.
+Estruturei, para uma consultoria de recrutamento, uma operação de prospecção B2B assistida por agentes de IA: pesquisa e qualificação automatizadas, integração com CRM (HubSpot) e rotinas diárias agendadas, sempre com revisão humana antes de qualquer contato.
 
 ## 🎓 Projeto aberto da faculdade
 
